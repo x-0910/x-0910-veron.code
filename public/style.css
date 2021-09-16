@@ -1,3 +1,11 @@
 .js {
     color: red;
 }
+
+
+.text {
+    color: blueviolet;
+    text-align: left;
+    font-size: large;
+    
+}
